@@ -17,3 +17,7 @@ end
 def say_go_home
   p "I'm tired. I'm going home."
 end
+
+def say_done
+  p "I'm done for the day"
+end
