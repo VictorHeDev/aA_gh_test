@@ -9,3 +9,7 @@ end
 def say_see_ya(name)
   p "see ya #{name}"
 end
+
+def say_welcome
+  p "you're welcome"
+end
